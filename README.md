@@ -3,6 +3,7 @@ Using LazyVerticalGrid or LazyGrid with items that have odd height and using wei
 
 ## Solution
 With a LazyColumn and Rows we can achieve the desired effect as you can see in the bottom part of the screenshot
+
 ![This is an image](/doc/screenshot01.png)
 
 ## Extras
